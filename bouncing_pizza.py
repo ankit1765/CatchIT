@@ -1,5 +1,5 @@
 # Bouncing Pizza
-# Demonstrates dealing with screen boundaries
+# Dealing with the boundaries of the screen 
 
 from livewires import games
 
@@ -29,5 +29,5 @@ def main():
 
     games.screen.mainloop()
 
-# kick it off!
+#Start the game//go to main
 main()

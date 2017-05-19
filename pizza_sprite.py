@@ -1,5 +1,5 @@
 # Pizza Sprite
-# Demonstrates creating a sprite 
+# Creating a sprite 
 
 from livewires import games
 

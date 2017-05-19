@@ -1,5 +1,5 @@
 # New Graphics Window
-# Demonstrates creating a graphics window
+# Creating a graphics window
 
 from livewires import games
 

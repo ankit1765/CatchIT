@@ -1,5 +1,5 @@
 # You Won
-# Demonstrates displaying a message
+# Dsplaying final message
 
 from livewires import games, color
 

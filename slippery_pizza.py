@@ -1,5 +1,5 @@
 # Slippery Pizza Program
-# Demonstrates testing for sprite collisions
+# Testing for sprite collisions
 
 from livewires import games
 import random

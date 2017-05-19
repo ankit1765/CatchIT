@@ -1,5 +1,6 @@
 # Pizza Panic
 # Player must catch falling pizzas before they hit the ground
+# main game file
 
 from livewires import games, color
 import random
@@ -112,7 +113,7 @@ class Chef(games.Sprite):
             new_pizza = Pizza(x = self.x)
             games.screen.add(new_pizza)
 
-            # set buffer to approx 30% of pizza height, regardless of pizza speed   
+            # setting buffer to approx 30% of pizza height, regardless of pizza speed   
             self.time_til_drop = int(new_pizza.height * 1.3 / Pizza.speed) + 1      
 
 
@@ -134,6 +135,6 @@ def main():
     games.screen.event_grab = True
     games.screen.mainloop()
 
-# start it up!
+#go
 main()
 

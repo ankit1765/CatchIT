@@ -1,7 +1,7 @@
 # Big Score
-# Demonstrates displaying text on a graphics screen
+# Displaying text on a graphics screen
 
-from livewires import games, color
+from livewires import games, color #using pygame 
 
 games.init(screen_width = 640, screen_height = 480, fps = 50)
 

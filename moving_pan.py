@@ -1,5 +1,5 @@
 # Moving Pan
-# Demonstrates mouse input
+# Receiving the Mouse input from touchpad 
 
 from livewires import games
 
@@ -28,5 +28,5 @@ def main():
 
     games.screen.mainloop()
 
-# kick it off!
+#Start the game//
 main()

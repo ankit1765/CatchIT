@@ -1,5 +1,5 @@
 # Moving Pizza
-# Demonstrates sprite velocities
+# Sprite velocities
 
 from livewires import games
 
