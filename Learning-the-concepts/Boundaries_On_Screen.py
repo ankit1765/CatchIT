@@ -1,4 +1,4 @@
-# Bouncing Pizza
+
 # Learning to deal with the boundaries of the screen 
 
 from livewires import games
